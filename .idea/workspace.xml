@@ -10,11 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5b28682-e967-4482-bca8-150f8aa232ee" name="Default Changelist" comment="更新2">
-      <change afterPath="$PROJECT_DIR$/src/java/sddd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shiro-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shiro-1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b5b28682-e967-4482-bca8-150f8aa232ee" name="Default Changelist" comment="更新1">
+      <change beforePath="$PROJECT_DIR$/src/java/sddd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/sddd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -285,6 +282,14 @@
       <workItem from="1622201694749" duration="5100000" />
       <workItem from="1622244016853" duration="439000" />
     </task>
+    <task id="LOCAL-00001" summary="更新1">
+      <created>1622245326692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622245326692</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,7 +349,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="更新1" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="542" y="298" key="#Tomcat_Server" timestamp="1622243347718">
