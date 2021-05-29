@@ -10,7 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5b28682-e967-4482-bca8-150f8aa232ee" name="Default Changelist" comment="更新1">
+    <list default="true" id="8cdbf775-95a3-4e77-adcf-0d5ad574ce12" name="Default Changelist" comment="更新4 分支添加">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java/sddd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/sddd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +69,14 @@
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.sddd">
+    <configuration name="sddd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sddd" />
+      <module name="shiro-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 8.5.60" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.60" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -267,13 +275,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.sddd" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b5b28682-e967-4482-bca8-150f8aa232ee" name="Default Changelist" comment="" />
+      <changelist id="8cdbf775-95a3-4e77-adcf-0d5ad574ce12" name="Default Changelist" comment="更新4 分支添加" />
       <created>1621832903013</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -286,6 +299,7 @@
       <workItem from="1622165859385" duration="1188000" />
       <workItem from="1622201694749" duration="5100000" />
       <workItem from="1622244016853" duration="439000" />
+      <workItem from="1622251226121" duration="1280000" />
     </task>
     <task id="LOCAL-00001" summary="更新1">
       <created>1622245326692</created>
@@ -364,14 +378,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1622243398974" />
-    <state x="571" y="184" key="FileChooserDialogImpl" timestamp="1622243835607">
+    <state x="571" y="184" key="FileChooserDialogImpl" timestamp="1622251678100">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="571" y="184" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1622243835607" />
-    <state x="272" y="58" key="SettingsEditor" timestamp="1622245264585">
+    <state x="571" y="184" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1622251678100" />
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1622251147206">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622245264585" />
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622251147206" />
+    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1622251147206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622251147206" />
+    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1622251147205">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622251147205" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1622251147206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622251147206" />
+    <state x="272" y="58" key="SettingsEditor" timestamp="1622251829076">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622251829076" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1622252261878">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1622252261878" />
     <state x="565" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622243527342">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
